@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gurudayal-u-6a4481264)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/Gurudayal-Udayakumar)
-[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-270%2B%20problems-brightgreen)](https://auth.geeksforgeeks.org/user/ygurudayalj6tu/practice)
+![GFG Stats](https://gfg-stats-card.vercel.app/api?username=ygurudayalj6tu)
 
 ---
 
